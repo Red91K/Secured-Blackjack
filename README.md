@@ -1,7 +1,7 @@
 # Secured-Blackjack
 - Blackjack game in python with basic security &amp; logging functionalities.
 - Not intended to be a completely secure system, inherent limitations exist because it is run locally
-- Check out the Obfuscated version that provides slightly more security (albeit mostly by obscurity)
+- Obfuscating the code to further hide cryptographic keys & implementation details could provide more security (albeit by obscurity)
 
 Features:
 - logs every transaction
